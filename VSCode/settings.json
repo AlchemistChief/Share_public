@@ -1,0 +1,84 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "batch-runner.runBatchIn": "External-cmd",
+    "breadcrumbs.enabled": false,
+    "chat.viewSessions.orientation": "stacked",
+    "debug.toolBarLocation": "floating",
+    "diffEditor.codeLens": true,
+    "diffEditor.hideUnchangedRegions.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
+    "editor.fontSize": 14.5,
+    "editor.fontVariations": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.guides.bracketPairs": true,
+    "editor.minimap.enabled": false,
+    "editor.renderWhitespace": "boundary",
+    "editor.semanticHighlighting.enabled": true,
+    "editor.smoothScrolling": true,
+    "editor.tabCompletion": "on",
+    "workbench.localHistory.maxFileEntries": 500,
+    "errorLens.enabledDiagnosticLevels": [
+        "warning",
+        "info",
+        "error"
+    ],
+    "explorer.compactFolders": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmDragAndDrop": false,
+    "extensions.autoCheckUpdates": false,
+    "extensions.autoUpdate": "off",
+    "files.autoSave": "afterDelay",
+    "files.defaultLanguage": "plaintext",
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "git.ignoreMissingGitWarning": true,
+    "git.mergeEditor": true,
+    "git.postCommitCommand": "push",
+    "git.terminalAuthentication": true,
+    "git.useEditorAsCommitInput": false,
+    "js/ts.updateImportsOnFileMove.enabled": "always",
+    "js/ts.updateImportsOnPaste.enabled": true,
+    "js/ts.autoClosingTags.enabled": true,
+    "livePreview.portNumber": 3000,
+    "markdown.validate.enabled": true,
+    "remote.SSH.configFile": "C:\\1.User\\11.Code\\3.Projects\\PodmanServer\\.ssh\\config",
+    "remote.SSH.remotePlatform": {
+        "fedora-server": "linux"
+    },
+    "scm.compactFolders": false,
+    "search.useGlobalIgnoreFiles": true,
+    "telemetry.telemetryLevel": "off",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "Command Prompt": {
+            "args": [],
+            "icon": "terminal-cmd",
+            "path": [
+                "${env:windir}\\Sysnative\\cmd.exe",
+                "${env:windir}\\System32\\cmd.exe"
+            ]
+        },
+        "PowerShell": {
+            "icon": "terminal-powershell",
+            "source": "PowerShell"
+        },
+        "Windows PowerShell": {
+            "path": "${env:windir}\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
+        }
+    },
+    "terminal.integrated.shellIntegration.enabled": false,
+    "terminal.integrated.smoothScrolling": true,
+    "window.density.editorTabHeight": "compact",
+    "window.restoreWindows": "folders",
+    "workbench.activityBar.location": "top",
+    "workbench.colorTheme": "Alchemos AMOLED DARK",
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.list.smoothScrolling": true,
+    "workbench.tree.renderIndentGuides": "always"
+}
