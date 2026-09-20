@@ -1,0 +1,8 @@
+{
+  "executable": "Code.exe",
+  "paths": [
+    "data\\tools\\PortableGit\\cmd",
+    "data\\tools\\PortableNode",
+    "data\\tools\\PortablePython"
+  ]
+}
